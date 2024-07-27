@@ -30,7 +30,7 @@ export default function Home() {
       <div className="relative w-full h-screen">
         <div className="w-full h-[25%] lg:px-48 px-4 flex items-center">
             <p className="text-center font-extralight text-sm lg:text-lg">
-            Welcome to Flex Social! We're a dynamic startup dedicated to empowering local businesses with innovative marketing strategies 
+            Welcome to Flex Social! We&apos;re a dynamic startup dedicated to empowering local businesses with innovative marketing strategies 
             and cutting-edge software solutions. Our friendly team enhances brand visibility and generates leads through engaging content 
             across various platforms. Enjoy free consultations for personalized strategies that align with your goals.
             </p>
