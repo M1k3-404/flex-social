@@ -47,14 +47,14 @@ export default function Home() {
           <div className="w-1/2 h-full hover:bg-red-700 rounded-xl hover:text-black flex justify-center items-center group">
             <div className="w-3/4 transform group-hover:scale-105 lg:group-hover:scale-110 transition-transform duration-300">
               <p className="text-lg lg:text-2xl font-semibold text-right">Social Media Marketing</p>
-              <p className="font-extralight mt-2 text-right text-sm lg:text-base">"Boost your brand’s online presence with our innovative strategies and stunning content."</p>
+              <p className="font-extralight mt-2 text-right text-sm lg:text-base">&quot;Boost your brand&apos;s online presence with our innovative strategies and stunning content.&quot;</p>
             </div>
           </div>
 
           <div className="w-1/2 h-full hover:bg-blue-700 rounded-xl hover:text-black flex justify-center items-center group">
             <div className="w-3/4 transform group-hover:scale-105 lg:group-hover:scale-110 transition-transform duration-300">
               <p className="text-lg lg:text-2xl font-semibold text-left">Software Development</p>
-              <p className="font-extralight mt-2 text-left text-sm lg:text-base">"Transform your ideas into powerful solutions with our expert software development services."</p>
+              <p className="font-extralight mt-2 text-left text-sm lg:text-base">&quot;Transform your ideas into powerful solutions with our expert software development services.&quot;</p>
             </div>
           </div>
         </div>
